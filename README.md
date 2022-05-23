@@ -6,7 +6,8 @@
 
 **Підготовка.**
 ```
-Треба отримати api_id та api_hash на сайті: https://my.telegram.org/apps
+Треба отримати api_id та api_hash на сайті:
+[https://my.telegram.org/apps](https://my.telegram.org/apps)
 Відкрити текстовим редактором файл tg_rat_chacker.py та вставити у перші строки api_id, pi_hash та свій номер телефону.
 (api_id без лапок, api_hash та phone у лапках)
 ```
