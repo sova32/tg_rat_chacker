@@ -1,5 +1,6 @@
 # tg_rat_chacker
 Допомогає виявляти крис у телеграм каналах
+writed by Vadiki 
 
 **Всттановлення залежності.**
 > pip3 install telethon
